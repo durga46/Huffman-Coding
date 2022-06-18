@@ -81,12 +81,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![P](https://user-images.githubusercontent.com/75235704/174434279-dec5f9f2-1ad7-4a90-b555-47d1cd2ad979.PNG)
 
 
 
