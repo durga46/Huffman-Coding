@@ -23,8 +23,11 @@ Print the characters and its huffmancode.
 ## Program:
 
 
-Developed by: DurgaDevi P
-Register Number: 212220230015 
+/Developed by: DurgaDevi P
+Register Number: 212220230015/
+
+```python
+
 # Get the input String
 string = input('Enter the String : ')
 
