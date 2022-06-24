@@ -18,8 +18,8 @@ Calculate frequency of occurrence.
 ## Step5:
 Print the characters and its huffmancode.
 ## Program:
-/Developed by: DurgaDevi P
-Register Number: 212220230015/
+/Developed by: Swetha.K.P
+Register Number: 212220230053/
 
 ```python
 
