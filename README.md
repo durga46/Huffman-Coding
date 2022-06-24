@@ -1,4 +1,6 @@
-# Huffman-Coding
+## EX.NO : 12
+## Date : 18.05.2022
+# <p align="center"> Huffman Coding</p>
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -7,22 +9,15 @@ To implement Huffman coding to compress the data using Python.
 
 ## Step1:
 Get the input String.
-
 ## Step2:
 Create tree nodes.
-
 ## Step3:
 Main function to implement huffman coding.
-
 ## Step4:
 Calculate frequency of occurrence.
-
 ## Step5:
 Print the characters and its huffmancode.
-
 ## Program:
-
-
 /Developed by: DurgaDevi P
 Register Number: 212220230015/
 
@@ -82,8 +77,6 @@ for (char, frequency) in freq:
 
 ### Print the characters and its huffmancode
 ![P](https://user-images.githubusercontent.com/75235704/174434279-dec5f9f2-1ad7-4a90-b555-47d1cd2ad979.PNG)
-
-
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
