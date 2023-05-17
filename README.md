@@ -1,5 +1,4 @@
-## EX.NO : 12
-## Date : 18.05.2022
+
 # <p align="center"> Huffman Coding</p>
 ## Aim
 To implement Huffman coding to compress the data using Python.
